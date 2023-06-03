@@ -1,0 +1,15 @@
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\bin\Debug\net6.0\BankCard.exe
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\bin\Debug\net6.0\BankCard.deps.json
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\bin\Debug\net6.0\BankCard.runtimeconfig.json
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\bin\Debug\net6.0\BankCard.dll
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\bin\Debug\net6.0\BankCard.pdb
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.dll
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\refint\BankCard.dll
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.pdb
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\BankCard.genruntimeconfig.cache
+C:\Users\ynami\OneDrive\Desktop\BankCard\BankCard\obj\Debug\net6.0\ref\BankCard.dll
